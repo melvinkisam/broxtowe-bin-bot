@@ -1,0 +1,11 @@
+{
+    "1234567890": {
+        "POSTCODE": "ab1 2cd",
+        "ADDRESS": "123 Example Street",
+        "reminder": {
+            "enabled": false,
+            "hour": 18,
+            "minute": 0
+        }
+    }
+}
